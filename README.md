@@ -1,13 +1,14 @@
 # Pomodoro Timer
 Simple, easy to use Pomodoro Timer made with React.js.<br>
 Timer is implemented by using `setInterval`and `clearInterval` methods in JavaScript.
-<img src="" width=100%>
 ## Installation
     git clone https://github.com/bobaejeon/pomodoroTimer.git
     npm install packages-you-need
     cd pomodoroTimer
     npm start
-
+## How to use
+<img src="https://user-images.githubusercontent.com/67196344/90961689-a4b21780-e4e5-11ea-9d06-0b62e8e969e1.png" width=100%>
+<b>start/pause</b>: Press the clock 
 <details markdown="1">
 <summary>About Create React App</summary>
 <<<<<<< HEAD
