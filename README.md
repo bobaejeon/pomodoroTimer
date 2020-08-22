@@ -1,3 +1,5 @@
+<details markdown="1">
+<summary>About Create React App</summary>
 <<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -70,3 +72,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 =======
 # pomodoroTimer
 >>>>>>> e8d55d3d9501c874314b4ffaabb52ffa1fa97777
+</details>
