@@ -1,0 +1,8 @@
+body {
+ background-color: #E5513D;
+ text-align: center;
+ font-family: 'Inconsolata', monospace;
+}
+input:focus, button:focus, *:focus {
+  outline: none;
+}

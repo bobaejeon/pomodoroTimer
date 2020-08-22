@@ -1,0 +1,79 @@
+/*button styles*/
+.btn{
+  color: darkgrey;
+  width: 80px;
+  font-weight: 1000;
+}
+.btn-circle{
+  background-color: transparent;
+  height: 350px;
+  border: none;
+}
+
+/* reset and end buttons styles*/
+.reset{
+  color: #2d1f1b;
+  opacity: 0.6;
+}
+.end{
+  color: #444f8bb8;
+}
+
+/*text style*/
+.text{
+  float: left;
+  font-size: 17px;
+  color: #545252;
+}
+
+/*locations*/
+.right{
+  text-align: right;
+}
+.lower{
+  padding-top: 15px;
+}
+
+/*setters styles*/
+.set-time{
+  width: 100%;
+  display: inline-block;
+}
+.set-text{
+  display:-webkit-inline-box;
+  width: 100%;
+}
+
+/*timer style*/
+.block{
+  display: inline-block;
+}
+.state{
+  border-top: 1px solid white;
+  width: 100px;
+  margin: 0 auto;
+  font-weight: 600;
+}
+.goal{
+  color: #DCD9D9;
+  font-size: x-large;
+  opacity: 0.6;
+  margin: 0 auto;
+}
+.session{
+  color: #FE8663;
+}
+.break{
+  color: #355c3a;
+}
+.done{
+  color: #6b2121;
+}
+/*clock styles*/
+.small{
+  font-size: 300%;
+  white-space: pre-wrap;
+}
+.big{
+  font-size: 900%;
+}
