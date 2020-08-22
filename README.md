@@ -1,5 +1,5 @@
 # Pomodoro Timer
-Simple, easy to use Pomodoro Timer made with React.js.<br>
+Simple, easy to use Pomodoro Timer with beautiful colors, made with React.js.<br>
 Timer is implemented by using `setInterval`and `clearInterval` methods in JavaScript.
 ## Installation
     git clone https://github.com/bobaejeon/pomodoroTimer.git
@@ -8,9 +8,9 @@ Timer is implemented by using `setInterval`and `clearInterval` methods in JavaSc
     npm start
 ## How to use
 <img src="https://user-images.githubusercontent.com/67196344/90961860-bd6efd00-e4e6-11ea-9616-0362db861cc1.png" width=100%>
-<b>Setter</b>: You can set session and break time. And your goal optionally.
-<b>Start/Pause</b>: Press the timer. Also you can find if it's on a session or on a break by looking at the bottom of this timer.
-<b>Reset</b>: Press `RESET` will make your timer back to the beginning of the session.
+<b>Setter</b>: You can set session and break time. And your goal optionally.<br>
+<b>Start/Pause</b>: Press the timer. Also you can find if it's on a session or on a break by looking at the bottom of this timer.<br>
+<b>Reset</b>: Press `RESET` will make your timer back to the beginning of the session.<br>
 <b>End</b>: Press `END` will show you how much session time you are using this timer in a row. *Make yourself proud!*
 <br><br><br>
 <details markdown="1">
