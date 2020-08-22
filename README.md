@@ -7,8 +7,12 @@ Timer is implemented by using `setInterval`and `clearInterval` methods in JavaSc
     cd pomodoroTimer
     npm start
 ## How to use
-<img src="https://user-images.githubusercontent.com/67196344/90961689-a4b21780-e4e5-11ea-9d06-0b62e8e969e1.png" width=100%>
-<b>start/pause</b>: Press the clock 
+<img src="https://user-images.githubusercontent.com/67196344/90961860-bd6efd00-e4e6-11ea-9616-0362db861cc1.png" width=100%>
+<b>Setter</b>: You can set session and break time. And your goal optionally.
+<b>Start/Pause</b>: Press the timer. Also you can find if it's on a session or on a break by looking at the bottom of this timer.
+<b>Reset</b>: Press `RESET` will make your timer back to the beginning of the session.
+<b>End</b>: Press `END` will show you how much session time you are using this timer in a row. *Make yourself proud!*
+<br><br><br>
 <details markdown="1">
 <summary>About Create React App</summary>
 <<<<<<< HEAD
