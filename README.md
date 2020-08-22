@@ -11,7 +11,7 @@ Timer is implemented by using `setInterval`and `clearInterval` methods in JavaSc
 <b>Setter</b>: You can set session and break time. And your goal optionally.<br>
 <b>Start/Pause</b>: Press the timer. Also you can find if it's on a session or on a break by looking at the bottom of this timer.<br>
 <b>Reset</b>: Press `RESET` will make your timer back to the beginning of the session.<br>
-<b>End</b>: Press `END` will show you how much session time you are using this timer in a row. *Make yourself proud!*
+<b>End</b>: Press `END` will show you how much session time you've been using this timer in a row. *Make yourself proud!*
 <br><br><br>
 <details markdown="1">
 <summary>About Create React App</summary>
